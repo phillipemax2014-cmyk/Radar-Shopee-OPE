@@ -1,0 +1,7 @@
+{
+  "name": "Radar de Produtos Virais - Shopee Vídeo",
+  "description": "Encontre produtos com muitas vendas e poucos ou nenhum vídeo na Shopee — oportunidades de alto potencial para criar seu próximo Shopee Vídeo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
